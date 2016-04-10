@@ -13,3 +13,6 @@ BEM / SASS styling
 Webpack / Require?
 
 Imagur photobucket API / Another image API?
+
+oAuth Authorisation?
+
